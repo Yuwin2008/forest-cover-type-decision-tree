@@ -80,7 +80,7 @@ forest-cover-type-decision-tree/
 
 ![Feature Importance](images/feature_importance.png)
 
-### Feature Importance
+### Overfitting Analysis
 
 ![Overfitting Analysis](images/overfitting_analysis.png)
 
