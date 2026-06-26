@@ -70,6 +70,25 @@ forest-cover-type-decision-tree/
 ├── forest_cover_decision_tree.ipynb
 └── images/
 ```
+##  Visualizations
+
+### Decision Tree Visualization
+
+![Decision Tree](images/tree.png)
+
+### Feature Importance
+
+![Feature Importance](images/feature_importance.png)
+
+### Feature Importance
+
+![Overfitting Analysis](images/overfitting_analysis.png)
+
+
+### Model Comparison
+
+![Model Comparison](images/model_comparison.png)
+
 
 ---
 
